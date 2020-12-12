@@ -4,7 +4,7 @@
 
 2：脚本默认情况下仅支持IBM伦敦，每天自动更新升级V2ray并重启
 
-详细教程（去掉两个!号）：ht!tps://youtu.be!/2WGJbtsY6gw
+详细教程：https://youtu.be/2WGJbtsY6gw
 
    | Secrets变量 | 形式 |
   | --------------------- | ----------- |
